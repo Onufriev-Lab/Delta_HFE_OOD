@@ -1,0 +1,1 @@
+{"feats": {"node_feats": {"partial_charge": 1, "inverse_born_radius": 1, "atom_identity": 0, "hybridization": 0, "aromatic": 0, "degree": 0, "num_attached_H": 0}, "edge_feats": {"distance": 1, "bond_type": 0}}, "edges": {"edge_cutoff_variable": "bonds", "implicit_h": true}}

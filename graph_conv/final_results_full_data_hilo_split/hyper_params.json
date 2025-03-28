@@ -1,0 +1,1 @@
+{"epochs": [1000], "es_overfitting": [1.0], "es_over_patience": [20], "es_min_delta": [0.01], "es_conv_patience": [100], "iter": [20]}
