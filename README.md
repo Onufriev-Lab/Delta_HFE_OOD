@@ -1,1 +1,3 @@
-Insert readme here
+Code for the paper: "Using Deep Graph Neural Networks Improves Physics-Based Hydration Free Energy Predictions Even for Molecules Outside of the Training Set Distribution" by Luke Elder and Alexey Onufriev which has been submitted to the Journal of Physical Chemistry.
+
+This work focuses on using deep graph neural networks to correct physics-based hydration free energy (HFE) predictions. Specifically, we use multiple dataset splits to test how these models perform on out-of-distribution data. This repository contains all training code, results, and saved models. Please see the paper manuscript or contact Luke Elder (luke177@vt.edu) for details.
