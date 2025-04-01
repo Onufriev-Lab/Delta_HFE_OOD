@@ -1,0 +1,1 @@
+{"feats": {"node_feats": {"partial_charge": 1, "inverse_born_radius": 1}, "edge_feats": {"distance": 1}}, "edges": {"edge_cutoff_variable": "bonds", "implicit_h": true}}
