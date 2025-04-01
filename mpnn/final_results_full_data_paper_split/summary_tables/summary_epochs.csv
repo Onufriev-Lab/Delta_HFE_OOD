@@ -1,0 +1,4 @@
+settings,TIP3P,CHA-GB,GBNSR6 (ZAP9),GBSNR6 (mbondi),AASC,IGB5,ML alone
+feats-node_z-hy-ar-de-nh-edge_bt-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/,41.65 ± 21.27,41.85 ± 19.93,58.55 ± 14.33,39.35 ± 15.35,37.35 ± 12.25,56.35 ± 15.99,62.35 ± 11.30
+feats-node_c-br-edge_r-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/,67.50 ± 17.96,70.35 ± 42.32,68.40 ± 28.44,77.10 ± 22.91,53.55 ± 19.96,63.95 ± 15.90,112.70 ± 19.09
+feats-node_c-br-z-hy-ar-de-nh-edge_r-bt-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/,53.75 ± 17.40,47.90 ± 18.74,52.65 ± 13.68,34.40 ± 13.68,38.45 ± 14.79,57.25 ± 13.28,69.40 ± 15.41
