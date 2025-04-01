@@ -1,0 +1,5 @@
+settings,TIP3P,CHA-GB,ZAP9,mbondi,AASC,IGB5,ML alone
+physics model,1.40,1.59,1.56,2.10,2.26,2.75,5.53
+feats-node_z-hy-ar-de-nh-edge_bt-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/,0.47 ± 0.09,0.74 ± 0.25,0.57 ± 0.12,0.57 ± 0.15,0.62 ± 0.18,0.72 ± 0.16,0.69 ± 0.19
+feats-node_c-br-edge_r-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/,0.81 ± 0.14,1.18 ± 0.16,0.81 ± 0.22,0.86 ± 0.13,0.77 ± 0.11,1.07 ± 0.16,1.92 ± 0.86
+feats-node_c-br-z-hy-ar-de-nh-edge_r-bt-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/,0.43 ± 0.07,0.66 ± 0.23,0.50 ± 0.14,0.51 ± 0.18,0.55 ± 0.14,0.70 ± 0.17,0.71 ± 0.17
