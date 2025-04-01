@@ -1,0 +1,152 @@
+final_results_paper_split/feats-node_z-hy-ar-de-nh-edge_bt-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/
+TIP3P
+Total models: 20, mean number of epochs: 46.0 ± 14.6
+              | train          | valid          | test           
+physics model | 1.430          | 1.537          | 1.350          
+physics + ml  | 0.577 ± 0.122  | 0.830 ± 0.066  | 0.903 ± 0.046  
+ensemble ml   | 0.482          | 0.698          | 0.800          
+
+CHA-GB
+Total models: 20, mean number of epochs: 58.0 ± 21.9
+              | train          | valid          | test           
+physics model | 1.581          | 1.836          | 1.327          
+physics + ml  | 0.604 ± 0.244  | 1.075 ± 0.122  | 0.914 ± 0.063  
+ensemble ml   | 0.449          | 0.929          | 0.719          
+
+ZAP9
+Total models: 20, mean number of epochs: 58.4 ± 15.9
+              | train          | valid          | test           
+physics model | 1.485          | 1.834          | 1.705          
+physics + ml  | 0.479 ± 0.136  | 0.992 ± 0.063  | 0.947 ± 0.099  
+ensemble ml   | 0.358          | 0.881          | 0.816          
+
+mbondi
+Total models: 20, mean number of epochs: 41.3 ± 14.7
+              | train          | valid          | test           
+physics model | 2.108          | 2.290          | 2.194          
+physics + ml  | 0.813 ± 0.172  | 1.263 ± 0.105  | 1.107 ± 0.112  
+ensemble ml   | 0.675          | 1.121          | 0.977          
+
+AASC
+Total models: 20, mean number of epochs: 46.5 ± 18.7
+              | train          | valid          | test           
+physics model | 2.231          | 2.516          | 2.477          
+physics + ml  | 0.821 ± 0.202  | 1.259 ± 0.111  | 1.112 ± 0.161  
+ensemble ml   | 0.703          | 1.121          | 0.966          
+
+IGB5
+Total models: 20, mean number of epochs: 60.4 ± 16.0
+              | train          | valid          | test           
+physics model | 2.606          | 2.954          | 3.033          
+physics + ml  | 0.797 ± 0.176  | 1.302 ± 0.059  | 1.218 ± 0.115  
+ensemble ml   | 0.666          | 1.168          | 1.059          
+
+ML alone
+Total models: 20, mean number of epochs: 57.0 ± 9.7
+              | train          | valid          | test           
+physics model | 5.280          | 5.559          | 5.154          
+physics + ml  | 0.836 ± 0.161  | 1.331 ± 0.192  | 1.218 ± 0.101  
+ensemble ml   | 0.662          | 1.090          | 1.014          
+
+final_results_paper_split/feats-node_c-br-edge_r-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/
+TIP3P
+Total models: 20, mean number of epochs: 68.7 ± 28.1
+              | train          | valid          | test           
+physics model | 1.430          | 1.537          | 1.350          
+physics + ml  | 0.860 ± 0.148  | 0.943 ± 0.082  | 1.003 ± 0.043  
+ensemble ml   | 0.788          | 0.884          | 0.937          
+
+CHA-GB
+Total models: 20, mean number of epochs: 74.2 ± 33.1
+              | train          | valid          | test           
+physics model | 1.581          | 1.836          | 1.327          
+physics + ml  | 1.059 ± 0.185  | 1.327 ± 0.144  | 1.172 ± 0.161  
+ensemble ml   | 0.936          | 1.221          | 1.012          
+
+ZAP9
+Total models: 20, mean number of epochs: 91.4 ± 30.4
+              | train          | valid          | test           
+physics model | 1.485          | 1.834          | 1.705          
+physics + ml  | 0.835 ± 0.225  | 1.193 ± 0.088  | 1.116 ± 0.100  
+ensemble ml   | 0.704          | 1.074          | 0.973          
+
+mbondi
+Total models: 20, mean number of epochs: 89.7 ± 19.8
+              | train          | valid          | test           
+physics model | 2.108          | 2.290          | 2.194          
+physics + ml  | 0.900 ± 0.185  | 1.277 ± 0.091  | 1.135 ± 0.119  
+ensemble ml   | 0.762          | 1.140          | 0.990          
+
+AASC
+Total models: 20, mean number of epochs: 75.1 ± 24.4
+              | train          | valid          | test           
+physics model | 2.231          | 2.516          | 2.477          
+physics + ml  | 0.900 ± 0.211  | 1.259 ± 0.076  | 1.194 ± 0.086  
+ensemble ml   | 0.772          | 1.137          | 1.060          
+
+IGB5
+Total models: 20, mean number of epochs: 71.5 ± 26.4
+              | train          | valid          | test           
+physics model | 2.606          | 2.954          | 3.033          
+physics + ml  | 1.025 ± 0.185  | 1.330 ± 0.109  | 1.373 ± 0.139  
+ensemble ml   | 0.894          | 1.192          | 1.226          
+
+ML alone
+Total models: 20, mean number of epochs: 108.3 ± 13.2
+              | train          | valid          | test           
+physics model | 5.280          | 5.559          | 5.154          
+physics + ml  | 1.108 ± 0.230  | 1.717 ± 0.197  | 1.526 ± 0.199  
+ensemble ml   | 0.850          | 1.440          | 1.233          
+
+final_results_paper_split/feats-node_c-br-z-hy-ar-de-nh-edge_r-bt-edges-var_bonds-implicit_h_True/ep_200-over_1_0-opat_20-del_0_01-cpat_20-iter_20/
+TIP3P
+Total models: 20, mean number of epochs: 48.2 ± 17.3
+              | train          | valid          | test           
+physics model | 1.430          | 1.537          | 1.350          
+physics + ml  | 0.562 ± 0.158  | 0.819 ± 0.075  | 0.875 ± 0.074  
+ensemble ml   | 0.465          | 0.685          | 0.764          
+
+CHA-GB
+Total models: 20, mean number of epochs: 53.8 ± 12.5
+              | train          | valid          | test           
+physics model | 1.581          | 1.836          | 1.327          
+physics + ml  | 0.567 ± 0.117  | 1.041 ± 0.104  | 0.902 ± 0.078  
+ensemble ml   | 0.445          | 0.904          | 0.724          
+
+ZAP9
+Total models: 20, mean number of epochs: 64.2 ± 19.2
+              | train          | valid          | test           
+physics model | 1.485          | 1.834          | 1.705          
+physics + ml  | 0.433 ± 0.171  | 0.975 ± 0.089  | 0.929 ± 0.089  
+ensemble ml   | 0.314          | 0.844          | 0.787          
+
+mbondi
+Total models: 20, mean number of epochs: 38.0 ± 16.0
+              | train          | valid          | test           
+physics model | 2.108          | 2.290          | 2.194          
+physics + ml  | 0.860 ± 0.174  | 1.304 ± 0.136  | 1.150 ± 0.142  
+ensemble ml   | 0.718          | 1.157          | 1.007          
+
+AASC
+Total models: 20, mean number of epochs: 46.1 ± 19.2
+              | train          | valid          | test           
+physics model | 2.231          | 2.516          | 2.477          
+physics + ml  | 0.864 ± 0.209  | 1.299 ± 0.089  | 1.145 ± 0.151  
+ensemble ml   | 0.733          | 1.142          | 0.993          
+
+IGB5
+Total models: 20, mean number of epochs: 65.5 ± 20.3
+              | train          | valid          | test           
+physics model | 2.606          | 2.954          | 3.033          
+physics + ml  | 0.773 ± 0.200  | 1.245 ± 0.095  | 1.203 ± 0.104  
+ensemble ml   | 0.636          | 1.092          | 1.036          
+
+ML alone
+Total models: 20, mean number of epochs: 60.4 ± 10.4
+              | train          | valid          | test           
+physics model | 5.280          | 5.559          | 5.154          
+physics + ml  | 0.783 ± 0.149  | 1.384 ± 0.163  | 1.235 ± 0.106  
+ensemble ml   | 0.624          | 1.195          | 1.074          
+
+CPU times: user 4h 49min 20s, sys: 4min 6s, total: 4h 53min 27s
+Wall time: 1h 53min 21s
